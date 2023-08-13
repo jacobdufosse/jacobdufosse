@@ -13,7 +13,8 @@ Welcome to my GitHub profile. I'm passionate about exploring the realms of techn
 - 🎉 Fun Fact: My journey through knowledge has taken some intriguing twists! I originally studied microelectronics engineering at the tender age of 20. But life's journey led me down different paths. For a decade, I immersed myself in graphic design and crafting interactive installations in Montreal. Afterward, I found my center as a yoga teacher and breathing coach, both online and at my yoga school on the beautiful Reunion Island. I even embraced social media, amassing over 5000 followers on Facebook as a micro-influencer focusing on breathing techniques and stress management. I am back to tech as a university student in network, system and cybersecurity at the age of 42.  
 
 - ✨ Philosophical Outlook: I hold a steadfast belief that our world should stand on the pillars of fairness, where everyone is subject to the same rules and regulations, irrespective of their background or financial standing. I stand against the notion that money should solely dictate the course of our existence. Instead, I envision a world where communities are strengthened, equality prevails, and safety is paramount—free from the influence of profit-driven agendas. If there's an opportunity for me to play a role in building this vision, count me in. Let's work together to create a future that's defined by unity, fairness, and security.
-- 
+
+
 Feel free to explore my repositories, connect with me, and join me on this exciting journey of exploration, learning, and creation.
  
 
